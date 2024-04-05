@@ -27,9 +27,6 @@ document.getElementById("get").addEventListener("click", async function () {
   //add your api key  here
   const api_key = "";
   const weatherURL = `https://api.openweathermap.org/data/2.5/weather?q=${city}&units=metric&APPID=${api_key}`;
-  
-
-
   // TODO : Fetch the weather url.
   // ps : you are free to use axios, fetch or whatever you want as data fetching lib.
   // after extraction the json object from the response you will need to inject the generated
