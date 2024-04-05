@@ -1,8 +1,14 @@
 # Practical Case
+
+
 ## Wheather app 
 
-1.create an account at https://openweathermap.org
-then generate your own api key.
+
+#### Create an account at https://openweathermap.org
 
 
-2
+#### Generate your own api key.
+
+
+#### Follow the instructions mentioned in the script.js file.
+
